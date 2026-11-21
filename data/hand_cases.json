@@ -1,0 +1,93 @@
+{
+ "seed": 0,
+ "n_patients": 3,
+ "patients": [
+  {
+   "patient_id": "HAND-001",
+   "items": [
+    {
+     "item_id": "HAND-001-i01",
+     "item_type": "allergy",
+     "label": "latex allergy",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-001-i02",
+     "item_type": "pending_result",
+     "label": "blood culture result pending",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-001-i03",
+     "item_type": "watch_item",
+     "label": "watch drain output",
+     "critical": false
+    },
+    {
+     "item_id": "HAND-001-i04",
+     "item_type": "routine_note",
+     "label": "family visits in evenings",
+     "critical": false
+    }
+   ]
+  },
+  {
+   "patient_id": "HAND-002",
+   "items": [
+    {
+     "item_id": "HAND-002-i01",
+     "item_type": "active_infusion",
+     "label": "heparin infusion running",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-002-i02",
+     "item_type": "pending_result",
+     "label": "potassium recheck pending",
+     "critical": false
+    },
+    {
+     "item_id": "HAND-002-i03",
+     "item_type": "watch_item",
+     "label": "watch confusion score",
+     "critical": true
+    }
+   ]
+  },
+  {
+   "patient_id": "HAND-003",
+   "items": [
+    {
+     "item_id": "HAND-003-i01",
+     "item_type": "allergy",
+     "label": "contrast dye allergy",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-003-i02",
+     "item_type": "active_infusion",
+     "label": "IV fluids running",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-003-i03",
+     "item_type": "pending_result",
+     "label": "wound swab result pending",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-003-i04",
+     "item_type": "watch_item",
+     "label": "watch oxygen saturation trend",
+     "critical": true
+    },
+    {
+     "item_id": "HAND-003-i05",
+     "item_type": "routine_note",
+     "label": "hearing aid in left ear",
+     "critical": false
+    }
+   ]
+  }
+ ]
+}
