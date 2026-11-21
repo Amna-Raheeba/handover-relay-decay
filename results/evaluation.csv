@@ -1,0 +1,7 @@
+policy,critical_survival_relay_1,critical_survival_relay_4,critical_survival_relay_8,total_survival_relay_4,total_survival_relay_8,critical_half_life_fitted,critical_half_life_empirical,critical_curve_auc
+free_text,0.919492,0.708157,0.522246,0.603086,0.389072,8.560521,,0.729409
+sbar,0.925318,0.742055,0.575212,0.662282,0.458639,9.997142,,0.760328
+checklist,0.95286,0.822034,0.680085,0.738427,0.56084,14.43688,,0.828125
+checklist_readback,0.971398,0.897775,0.819915,0.847458,0.72932,27.717871,,0.900556
+checklist_pinning,0.992055,0.972987,0.948093,0.825702,0.698204,105.855969,,0.972391
+checklist_pinning_readback,0.996822,0.986229,0.967161,0.889451,0.795345,160.932096,,0.984772
